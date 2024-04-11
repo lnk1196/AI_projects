@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-The assignment for this notebook is to implement local search algorithms such as hill-climbing, random restart, and simulated annealing to perform function optimization.
-"""
 
 # import required libraries
 import time
@@ -11,7 +8,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 
-# Create a complex objective function that we need to maximize.
 # Here, the objective function is simply defined as an equation but
 # more generally, it could represent natural phenomena, physical laws, or mathematical models
 #   X: a 2-dimensional floating-point vector consisting of an x-value and a y-value
